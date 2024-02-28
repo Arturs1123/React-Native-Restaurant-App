@@ -1,9 +1,9 @@
 # Restaurant App
 
-BoilerPlate Used React Native [https://github.com/kaushiknishchay/React-Native-Boilerplate](https://github.com/kaushiknishchay/React-Native-Boilerplate)
+BoilerPlate Used React Native [https://github.com/Arturs1123/React-Native-Boilerplate](https://github.com/Arturs1123/React-Native-Boilerplate)
 
 
-BoilerPlate Used React.JS [https://github.com/Codebrahma/Codebrahma-React-Boilerplate](https://github.com/Codebrahma/Codebrahma-React-Boilerplate)
+BoilerPlate Used React.JS [https://github.com/Arturs1123/React-Boilerplater](https://github.com/Arturs1123/React-Boilerplater)
 
 ## Setup
 
@@ -11,7 +11,7 @@ BoilerPlate Used React.JS [https://github.com/Codebrahma/Codebrahma-React-Boiler
 
 - Install and  setup the backend server
  
-[https://github.com/Codebrahma/RestaurantApp-Express](https://github.com/Codebrahma/RestaurantApp-Express)
+[https://github.com/Arturs1123/Restaurant-Express-API](https://github.com/Arturs1123/Restaurant-Express-API)
 
 ### Installation
 
